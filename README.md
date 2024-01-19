@@ -16,4 +16,3 @@ Some details will coming soon.
 
 ## Acknowledgement
 
-We borrow some code from [PUCRN](https://github.com/hikvision-research/3DVision).
