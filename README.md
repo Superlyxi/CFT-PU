@@ -1,4 +1,4 @@
-# Coarse-to-Fine Learning by Feature Transformer and Positional Fusion for Point Cloud Upsampling
+# 3D Point Cloud Processing Using a Coarse-to-Fine Network with Transformer-Encoder
 
 ## Introduction
 
