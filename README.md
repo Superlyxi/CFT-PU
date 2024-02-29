@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the official Pytorch implementation of our paper "Coarse-to-Fine Learning by Feature Transformer and Positional Fusion for Point Cloud Upsampling". 
+This is the official Pytorch implementation of our paper "3D Point Cloud Processing Using a Coarse-to-Fine Network with Transformer-Encoder". Once the article is accepted, we will publish the code.
 
 ## Data Preparation
 
